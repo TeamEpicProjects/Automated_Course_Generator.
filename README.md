@@ -1,7 +1,7 @@
 # Automated_Course_Generator
 Automatic Course Content Generator (ACCG) is an AI-based Streamlit application. It generates a complete course and makes necessary modifications. The application also generates quiz questions along with the complete course, which can be conveniently downloaded as a PDF. 
-**
-#Steps:**
+
+#Steps:
 
 STEP 1 - In order to run the application on your local system, you would need to generate your open API key and you will have to store the key in a .env file in the following format:
 OPENAI_API_KEY="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
